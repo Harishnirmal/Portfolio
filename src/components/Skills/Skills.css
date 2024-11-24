@@ -53,11 +53,12 @@
 @media  screen and (max-width:480px) {
     .skillTitle{
         font-size: 5rem;
+        
     }
     .skilldescription{
         font-size: 5vw;
         font-weight: 400;
-        width: 41rem;
+        width: 40rem;
         
     }
     
@@ -73,6 +74,6 @@
     }
     #skills{
         margin-left: 60px;
-        width: 40rem;
+        width: 39rem;
     }
 }
