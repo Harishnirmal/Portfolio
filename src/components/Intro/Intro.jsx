@@ -1,6 +1,6 @@
 import React from 'react';
 import './Intro.css';
-import bg from '../../assets/bg1.png';
+import bg from '../../assets/mask.png';
 import btnImg from '../../assets/resume.png';
 
 import resume from '../../resume/1.pdf';

@@ -106,7 +106,16 @@
 @media screen and (max-width:480px) {
 
     .contactForm{
-        width: 30rem;
+        width: 40rem;
+    }
+    .name{
+        font-size: 1.5rem;
+    }
+    .email{
+        font-size:1.5rem;
+    }
+    .msg{
+        font-size: 1.5rem;
     }
     #contactPage{
         margin-left: 150px;
@@ -119,6 +128,9 @@
         font-size: 1.5rem;
         width: 600px;
         
+    }
+    .contactdesc{
+        font-size: 1.5rem;
     }
    
 }
